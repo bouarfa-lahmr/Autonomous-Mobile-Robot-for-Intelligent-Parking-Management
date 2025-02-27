@@ -127,3 +127,20 @@ Our **Autonomous Mobile Robot**:
 - Deploy in **larger parking environments**.
 
 ---
+
+## Images of the Project
+### **3D Model of the Robot in SolidWorks**
+![3D Model](3d_model.jpeg)
+
+### **Final Robot**
+![Final Robot](robot.jpeg)
+
+### **Robot in the Parking Lot**
+![Robot in Parking](final.jpeg)
+
+---
+
+## Report
+For more details, check the project report:  
+[Click here to see the report (French version)](rapport.pdf)
+
